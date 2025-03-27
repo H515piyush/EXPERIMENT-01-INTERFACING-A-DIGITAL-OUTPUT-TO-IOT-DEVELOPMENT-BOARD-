@@ -108,11 +108,12 @@ int main(void)
 
 
 ## OUTPUT  :
-#onstate
+##onstate
 
 ![419373509-c979fa41-60d0-4928-b5c6-3834bbc05a17](https://github.com/user-attachments/assets/b8d97d07-a22b-455e-993d-c502169438f7)
 
-#off state
+##off state
+
 ![419377428-5180c505-e88f-4ec0-a9b1-4723864047b9](https://github.com/user-attachments/assets/71af572c-6f9e-4146-b7ab-602bcbdc048c)
 
 
